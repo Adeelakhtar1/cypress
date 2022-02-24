@@ -1,0 +1,7 @@
+{"baseUrl":"https://www.etsy.com","pageLoadTimeout":40000, 
+    "chromeWebSecurity": false,
+    "viewportWidth": 1903,
+    "viewportHeight": 969,
+    "defaultCommandTimeout":20000
+
+}

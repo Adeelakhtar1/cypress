@@ -1,0 +1,29 @@
+{
+    "Emptyfields":[{
+        "email":"",
+        "password":"@1233444444",
+        "validationMessage":"Email can't be blank."
+    },
+    {
+        "email":"test@gmail.com",
+        "password":"",
+        "validationMessage":"Password can't be blank."
+      },
+      {
+        "email":"32424",
+        "password":"Adeelakhtar1",
+        "validationMessage":"Username is invalid."
+      },
+      {
+        "email":"adeel@gmail.com",
+        "password":"efewfew",
+        "validationMessage":"Password was incorrect"
+      },
+      {
+        "email":"test@gmail.com",
+        "password":"Adeelakhtar1",
+        "validationMessage":"Email address is invalid.."
+      }
+    ]
+}
+    

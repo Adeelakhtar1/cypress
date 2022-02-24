@@ -1,0 +1,23 @@
+{
+
+      "Emptyfields":[{
+        "email":"test@gmail.com",
+        "name":"",
+        "password":"@1233444444",
+        "validationMessage":"First name can't be blank."
+      }, 
+    
+      {
+        "email":"",
+        "name":"testuser",
+        "password":"@1233444444",
+        "validationMessage":"Email can't be blank."
+      },
+
+    {
+        "email":"test@gmail.com",
+        "name":"testuser",
+        "password":"",
+        "validationMessage":"Password can't be blank"
+      }]
+}
